@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" aria-labelledby="title"
+aria-describedby="desc" role="img" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <title>Secure Payment</title>
+  <desc>A flat styled icon from Orion Icon Library.</desc>
+  <path data-name="layer3"
+  d="M50 12.4a2.4 2.4 0 0 0-2.392-2.4H4.407A2.4 2.4 0 0 0 2 12.4V18h48z"
+  fill="#5dcdc2"></path>
+  <path data-name="layer4" d="M2 18v21.6A2.4 2.4 0 0 0 4.407 42H38v-4h12V18z"
+  fill="#cdefec"></path>
+  <path data-name="layer3" d="M26.005 27H10.094a1 1 0 1 1 0-2H26a1 1 0 1 1 0 2zM17 35h-6.994a1 1 0 1 1 0-2H17a1 1 0 0 1 0 2z"
+  fill="#5dcdc2"></path>
+  <path data-name="opacity" fill="#000064" opacity=".1" d="M45.041 23.063L26.104 42h11.898l-.001-3.999h12V22.556l-4.96.507z"></path>
+  <path data-name="layer1" d="M56 39a1 1 0 0 1-1-1V28a5 5 0 1 0-10 0v10a1 1 0 1 1-2 0V28a7 7 0 1 1 14 0v10a1 1 0 0 1-1 1z"
+  fill="#bbbbbb"></path>
+  <path data-name="layer2" fill="#baeae6" d="M38 38h24v16H38z"></path>
+  <path data-name="layer1" d="M50 49a1 1 0 0 1-1-1v-4a1 1 0 0 1 2 0v4a1 1 0 0 1-1 1z"
+  fill="#bbbbbb"></path>
+</svg>

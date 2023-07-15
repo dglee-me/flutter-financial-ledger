@@ -1,0 +1,2 @@
+
+const COPYRIGHT = "COPYRIGHT © 2023 leedonggeun ALL RIGHTS RESERVED.";
