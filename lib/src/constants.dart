@@ -1,2 +1,7 @@
+import 'dart:ui';
 
+// COLOR-SET
+const PRIMARY_COLOR = Color(0xFF80D8D0);
+
+// COMMON-STRING-SET
 const COPYRIGHT = "COPYRIGHT © 2023 leedonggeun ALL RIGHTS RESERVED.";

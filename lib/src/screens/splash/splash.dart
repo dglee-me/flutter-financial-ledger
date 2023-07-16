@@ -23,7 +23,10 @@ class Splash extends GetView<SplashController> {
             child: Container(
               width: 100,
               margin: const EdgeInsets.only(bottom: 15),
-              child: SvgPicture.asset("assets/splash/ci.svg"),
+              child: SvgPicture.asset(
+                "assets/splash/ci.svg",
+                fit: BoxFit.cover,
+              ),
             ),
           ),
         ],

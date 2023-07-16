@@ -1,3 +1,4 @@
+import 'package:financial/src/constants.dart';
 import 'package:financial/src/router/route.dart';
 import 'package:financial/src/screens/splash/splash.dart';
 import 'package:flutter/material.dart';
@@ -8,7 +9,6 @@ main() => runApp(MyApp());
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
-  // This widget is the root of your application.
   @override
   Widget build(BuildContext context) {
     return GetMaterialApp(
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         colorScheme: const ColorScheme(
           brightness: Brightness.light,
-          primary: Colors.deepPurple,
+          primary: PRIMARY_COLOR,
           onPrimary: Colors.white,
           secondary: Colors.deepPurple,
           onSecondary: Colors.white,

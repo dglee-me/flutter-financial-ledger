@@ -1,5 +1,6 @@
 import 'dart:async';
 
+import 'package:financial/src/screens/home/home.dart';
 import 'package:get/get.dart';
 
 class SplashController extends GetxController {
@@ -10,9 +11,11 @@ class SplashController extends GetxController {
   }
 
   // 1초간 스플래쉬 화면을 보여주고 라우팅 한다.
-  void _init() {
-    Timer(const Duration(seconds: 1), () => route());
+  void _init() async {
+    Timer(const Duration(milliseconds: 1500), () => route());
   }
 
-  route() {}
+  route() {
+    Get.offAllNamed(Home.routeName);
+  }
 }
